@@ -9,6 +9,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import '/resources/css/app.css';
 import '/resources/css/lib/owlcarousel/assets/owl.carousel.min.css';
+import '/resources/css/lib/owlcarousel/assets/owl.carousel.css';
+//import '/resources/css/lib/owlcarousel/owl.carousel.js';
+//import '/resources/css/lib/owlcarousel/owl.carousel.min.js';
+
+
 import '/resources/css/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css';
 import App from '/resources/js/App.vue';
 
